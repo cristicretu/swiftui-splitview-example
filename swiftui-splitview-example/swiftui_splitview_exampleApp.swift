@@ -2,7 +2,7 @@
 //  swiftui_splitview_exampleApp.swift
 //  swiftui-splitview-example
 //
-//  Created by John Doe on 17.01.2024.
+//  Created by Cristian Cretu on 17.01.2024.
 //
 
 import SwiftUI
